@@ -15,4 +15,5 @@ add_executable(CPP_Codes main.cpp
         max_subarray_with_sum_k.cpp
         two_sum.cpp
         sort_colors.cpp
+        majority_element.cpp
 )
