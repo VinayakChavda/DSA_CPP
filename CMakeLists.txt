@@ -10,4 +10,9 @@ add_executable(CPP_Codes main.cpp
         rotate_left_by_k.cpp
         move_zeros.cpp
         union_two_sorted_array.cpp
+        missing_number.cpp
+        max_consecutive_ones.cpp
+        max_subarray_with_sum_k.cpp
+        two_sum.cpp
+        sort_colors.cpp
 )

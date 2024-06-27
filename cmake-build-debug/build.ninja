@@ -91,6 +91,36 @@ build CMakeFiles/CPP_Codes.dir/union_two_sorted_array.cpp.obj: CXX_COMPILER__CPP
   OBJECT_DIR = CMakeFiles\CPP_Codes.dir
   OBJECT_FILE_DIR = CMakeFiles\CPP_Codes.dir
 
+build CMakeFiles/CPP_Codes.dir/missing_number.cpp.obj: CXX_COMPILER__CPP_Codes_unscanned_Debug E$:/CPP$ Codes/missing_number.cpp || cmake_object_order_depends_target_CPP_Codes
+  DEP_FILE = CMakeFiles\CPP_Codes.dir\missing_number.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_Codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_Codes.dir
+
+build CMakeFiles/CPP_Codes.dir/max_consecutive_ones.cpp.obj: CXX_COMPILER__CPP_Codes_unscanned_Debug E$:/CPP$ Codes/max_consecutive_ones.cpp || cmake_object_order_depends_target_CPP_Codes
+  DEP_FILE = CMakeFiles\CPP_Codes.dir\max_consecutive_ones.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_Codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_Codes.dir
+
+build CMakeFiles/CPP_Codes.dir/max_subarray_with_sum_k.cpp.obj: CXX_COMPILER__CPP_Codes_unscanned_Debug E$:/CPP$ Codes/max_subarray_with_sum_k.cpp || cmake_object_order_depends_target_CPP_Codes
+  DEP_FILE = CMakeFiles\CPP_Codes.dir\max_subarray_with_sum_k.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_Codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_Codes.dir
+
+build CMakeFiles/CPP_Codes.dir/two_sum.cpp.obj: CXX_COMPILER__CPP_Codes_unscanned_Debug E$:/CPP$ Codes/two_sum.cpp || cmake_object_order_depends_target_CPP_Codes
+  DEP_FILE = CMakeFiles\CPP_Codes.dir\two_sum.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_Codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_Codes.dir
+
+build CMakeFiles/CPP_Codes.dir/sort_colors.cpp.obj: CXX_COMPILER__CPP_Codes_unscanned_Debug E$:/CPP$ Codes/sort_colors.cpp || cmake_object_order_depends_target_CPP_Codes
+  DEP_FILE = CMakeFiles\CPP_Codes.dir\sort_colors.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_Codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_Codes.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CPP_Codes
@@ -99,7 +129,7 @@ build CMakeFiles/CPP_Codes.dir/union_two_sorted_array.cpp.obj: CXX_COMPILER__CPP
 #############################################
 # Link the executable CPP_Codes.exe
 
-build CPP_Codes.exe: CXX_EXECUTABLE_LINKER__CPP_Codes_Debug CMakeFiles/CPP_Codes.dir/main.cpp.obj CMakeFiles/CPP_Codes.dir/selection_sort.cpp.obj CMakeFiles/CPP_Codes.dir/check_sorted_rotated.cpp.obj CMakeFiles/CPP_Codes.dir/remove_duplicate.cpp.obj CMakeFiles/CPP_Codes.dir/rotate_left_by_k.cpp.obj CMakeFiles/CPP_Codes.dir/move_zeros.cpp.obj CMakeFiles/CPP_Codes.dir/union_two_sorted_array.cpp.obj
+build CPP_Codes.exe: CXX_EXECUTABLE_LINKER__CPP_Codes_Debug CMakeFiles/CPP_Codes.dir/main.cpp.obj CMakeFiles/CPP_Codes.dir/selection_sort.cpp.obj CMakeFiles/CPP_Codes.dir/check_sorted_rotated.cpp.obj CMakeFiles/CPP_Codes.dir/remove_duplicate.cpp.obj CMakeFiles/CPP_Codes.dir/rotate_left_by_k.cpp.obj CMakeFiles/CPP_Codes.dir/move_zeros.cpp.obj CMakeFiles/CPP_Codes.dir/union_two_sorted_array.cpp.obj CMakeFiles/CPP_Codes.dir/missing_number.cpp.obj CMakeFiles/CPP_Codes.dir/max_consecutive_ones.cpp.obj CMakeFiles/CPP_Codes.dir/max_subarray_with_sum_k.cpp.obj CMakeFiles/CPP_Codes.dir/two_sum.cpp.obj CMakeFiles/CPP_Codes.dir/sort_colors.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP_Codes.dir
