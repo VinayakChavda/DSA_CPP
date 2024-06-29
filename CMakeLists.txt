@@ -16,4 +16,10 @@ add_executable(CPP_Codes main.cpp
         two_sum.cpp
         sort_colors.cpp
         majority_element.cpp
+        rearrange_array_element_by_sign.cpp
+        next_permutation.cpp
+        leaders_in_array.cpp
+        longest_consecutive_sequence.cpp
+        rotate_metrix.cpp
+        spiral_order_matrix.cpp
 )

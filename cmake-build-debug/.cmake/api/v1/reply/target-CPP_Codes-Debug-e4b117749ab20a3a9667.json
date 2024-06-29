@@ -64,7 +64,13 @@
 				9,
 				10,
 				11,
-				12
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
 			]
 		}
 	],
@@ -113,7 +119,13 @@
 				9,
 				10,
 				11,
-				12
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
 			]
 		}
 	],
@@ -195,6 +207,42 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "majority_element.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rearrange_array_element_by_sign.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "next_permutation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "leaders_in_array.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "longest_consecutive_sequence.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "rotate_metrix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "spiral_order_matrix.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
