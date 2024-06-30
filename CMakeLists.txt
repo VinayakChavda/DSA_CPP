@@ -22,4 +22,7 @@ add_executable(CPP_Codes main.cpp
         longest_consecutive_sequence.cpp
         rotate_metrix.cpp
         spiral_order_matrix.cpp
+        maximum_subarray_sum_equals_k.cpp
+        pascal_triangle.cpp
+        majority_element_2.cpp
 )
