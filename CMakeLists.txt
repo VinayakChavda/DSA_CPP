@@ -25,4 +25,9 @@ add_executable(CPP_Codes main.cpp
         maximum_subarray_sum_equals_k.cpp
         pascal_triangle.cpp
         majority_element_2.cpp
+        3sum.cpp
+        3sum_optimal.cpp
+        4sum.cpp
+        merge_intervals.cpp
+        merge_sorted_array_without_sc.cpp
 )
