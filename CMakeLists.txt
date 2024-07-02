@@ -30,4 +30,7 @@ add_executable(CPP_Codes main.cpp
         4sum.cpp
         merge_intervals.cpp
         merge_sorted_array_without_sc.cpp
+        missing_repeating_number.cpp
+        merge_sort.cpp
+        inversion_count.cpp
 )
