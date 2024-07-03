@@ -33,4 +33,7 @@ add_executable(CPP_Codes main.cpp
         missing_repeating_number.cpp
         merge_sort.cpp
         inversion_count.cpp
+        maxumum_subarray_multiplication.cpp
+        binary_search.cpp
+        lower_bound_BS.cpp
 )

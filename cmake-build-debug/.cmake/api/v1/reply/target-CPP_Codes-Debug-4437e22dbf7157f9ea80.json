@@ -81,7 +81,10 @@
 				26,
 				27,
 				28,
-				29
+				29,
+				30,
+				31,
+				32
 			]
 		}
 	],
@@ -147,7 +150,10 @@
 				26,
 				27,
 				28,
-				29
+				29,
+				30,
+				31,
+				32
 			]
 		}
 	],
@@ -331,6 +337,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "inversion_count.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "maxumum_subarray_multiplication.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "binary_search.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lower_bound_BS.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
