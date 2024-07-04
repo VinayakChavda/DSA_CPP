@@ -36,4 +36,10 @@ add_executable(CPP_Codes main.cpp
         maxumum_subarray_multiplication.cpp
         binary_search.cpp
         lower_bound_BS.cpp
+        upper_bound_BS.cpp
+        first_last_occurence_of_x.cpp
+        search_in_rotated_sorted_BS.cpp
+        search_in_rotated_sorted_2_BS.cpp
+        minimum_sorted_rotated_array.cpp
+        single_in_sorted_array.cpp
 )
