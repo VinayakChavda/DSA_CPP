@@ -42,4 +42,12 @@ add_executable(CPP_Codes main.cpp
         search_in_rotated_sorted_2_BS.cpp
         minimum_sorted_rotated_array.cpp
         single_in_sorted_array.cpp
+        sqrt_of_integer_BS.cpp
+        nth_root_of_M_BS.cpp
+        koko_eating_bananas_BS.cpp
+        minimum_n_bouquets_BS.cpp
+        min_divisor_given_threshold_BS.cpp
+        min_cap_to_ship_all_product_BS.cpp
+        kth_missing_number_BS.cpp
+        agressive_cows_BS.cpp
 )
