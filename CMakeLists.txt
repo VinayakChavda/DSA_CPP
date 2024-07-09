@@ -50,4 +50,5 @@ add_executable(CPP_Codes main.cpp
         min_cap_to_ship_all_product_BS.cpp
         kth_missing_number_BS.cpp
         agressive_cows_BS.cpp
+        book_allocation_BS.cpp
 )
