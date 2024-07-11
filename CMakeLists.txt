@@ -51,4 +51,9 @@ add_executable(CPP_Codes main.cpp
         kth_missing_number_BS.cpp
         agressive_cows_BS.cpp
         book_allocation_BS.cpp
+        painter_partition_BS.cpp
+        max_points_from_card_SW.cpp
+        longest_substring_without_repeating_SW.cpp
+        max_consecutive_one_3_SW.cpp
+        no_of_substring_containing_all_3_SW.cpp
 )
