@@ -56,4 +56,12 @@ add_executable(CPP_Codes main.cpp
         longest_substring_without_repeating_SW.cpp
         max_consecutive_one_3_SW.cpp
         no_of_substring_containing_all_3_SW.cpp
+        longest_repeating_char_replacement_SW.cpp
+        TreeNode.cpp
+        TreeNode.h
+        level_order_traversal_BT.cpp
+        binary_sum_equals_k_SW.cpp
+        number_of_nice_subarray_SW.cpp
+        subarray_with_k_diff_integer_SW.cpp
+        minimum_window_substring_SW.cpp
 )

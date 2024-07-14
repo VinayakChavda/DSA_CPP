@@ -104,7 +104,14 @@
 				49,
 				50,
 				51,
-				52
+				52,
+				53,
+				54,
+				56,
+				57,
+				58,
+				59,
+				60
 			]
 		}
 	],
@@ -193,7 +200,21 @@
 				49,
 				50,
 				51,
-				52
+				52,
+				53,
+				54,
+				56,
+				57,
+				58,
+				59,
+				60
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				55
 			]
 		}
 	],
@@ -515,6 +536,53 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "no_of_substring_containing_all_3_SW.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "longest_repeating_char_replacement_SW.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "TreeNode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "TreeNode.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "level_order_traversal_BT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "binary_sum_equals_k_SW.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "number_of_nice_subarray_SW.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "subarray_with_k_diff_integer_SW.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "minimum_window_substring_SW.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
