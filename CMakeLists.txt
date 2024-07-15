@@ -64,4 +64,7 @@ add_executable(CPP_Codes main.cpp
         number_of_nice_subarray_SW.cpp
         subarray_with_k_diff_integer_SW.cpp
         minimum_window_substring_SW.cpp
+        next_greater_element_1_ST.cpp
+        next_greater_element_2_ST.cpp
+        largest_rectangle_in_histogram_ST.cpp
 )
