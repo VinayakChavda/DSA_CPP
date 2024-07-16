@@ -67,4 +67,13 @@ add_executable(CPP_Codes main.cpp
         next_greater_element_1_ST.cpp
         next_greater_element_2_ST.cpp
         largest_rectangle_in_histogram_ST.cpp
+        path_from_s_to_t_BT.cpp
+        lowest_common_ancestor_BT.cpp
+        maximum_depth_BT.cpp
+        balanced_BT.cpp
+        diameter_of_BT.cpp
+        maximum_path_sum_BT.cpp
+        identical_BT.cpp
+        zig_zag_traversal_BT.cpp
+        boundry_traversal_BT.cpp
 )
