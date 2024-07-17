@@ -76,4 +76,9 @@ add_executable(CPP_Codes main.cpp
         identical_BT.cpp
         zig_zag_traversal_BT.cpp
         boundry_traversal_BT.cpp
+        vertical_order_traversal_BT.cpp
+        top_view_of_BT.cpp
+        bottom_view_BT.cpp
+        right_view_of_BT.cpp
+        isSymmertric.cpp
 )

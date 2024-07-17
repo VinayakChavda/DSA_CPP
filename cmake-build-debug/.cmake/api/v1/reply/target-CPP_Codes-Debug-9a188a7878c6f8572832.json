@@ -123,7 +123,12 @@
 				69,
 				70,
 				71,
-				72
+				72,
+				73,
+				74,
+				75,
+				76,
+				77
 			]
 		}
 	],
@@ -231,7 +236,12 @@
 				69,
 				70,
 				71,
-				72
+				72,
+				73,
+				74,
+				75,
+				76,
+				77
 			]
 		},
 		{
@@ -679,6 +689,36 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "boundry_traversal_BT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "vertical_order_traversal_BT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "top_view_of_BT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "bottom_view_BT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "right_view_of_BT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "isSymmertric.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
