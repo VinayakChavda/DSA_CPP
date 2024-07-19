@@ -81,4 +81,8 @@ add_executable(CPP_Codes main.cpp
         bottom_view_BT.cpp
         right_view_of_BT.cpp
         isSymmertric.cpp
+        root_to_node_BT.cpp
+        max_width_of_BT.cpp
+        children_sum_property_BT.cpp
+        nodes_at_dis_k_BT.cpp
 )
