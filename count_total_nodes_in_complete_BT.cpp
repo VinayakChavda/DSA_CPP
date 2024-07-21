@@ -8,21 +8,27 @@
 using namespace std;
 #include "TreeNode.h"
 
-int minChanges(vector<int>& nums, int k) {
-    map<int, int> mp;
-    int maxi = INT_MIN;
-    int n = nums.size();
-    for(int i=0;i<n/2;i++) {
-        int ab = abs(nums[i]-nums[n-i-1]);
-        mp[abs(nums[i]-nums[n-i-1])]++;
-        maxi = max(maxi,mp[ab]);
+int findLeftH(TreeNode* root) {
+    int h = 0;
+    while (root) {
+        h++;
+        root = root->left;
     }
-    int total = 0;
-    for (auto it : mp) {
-        total += it.second;
-        if(it.first <= 0 ) {
-            total++;
-        }
+    return h;
+}
+int findRightH(TreeNode* root) {
+    int h = 0;
+    while (root) {
+        h++;
+        root = root->right;
     }
-    return total - maxi;
+    return h;
+}
+
+int countTotalNodes(TreeNode* root) {
+    if (root == NULL) return 0;
+    int lh = findLeftH(root);
+    int rh = findRightH(root);
+    if (rh == lh) return (1<<lh)-1;
+    return 1+countTotalNodes(root->left)+countTotalNodes(root->right);
 }

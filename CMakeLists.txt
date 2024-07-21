@@ -87,4 +87,6 @@ add_executable(CPP_Codes main.cpp
         nodes_at_dis_k_BT.cpp
         minimum_time_to_burn_BT.cpp
         count_total_nodes_in_complete_BT.cpp
+        BFS_GH.cpp
+        DFS_GH.cpp
 )
