@@ -89,4 +89,9 @@ add_executable(CPP_Codes main.cpp
         count_total_nodes_in_complete_BT.cpp
         BFS_GH.cpp
         DFS_GH.cpp
+        no_of_provinces_GH.cpp
+        no_of_islands_GH.cpp
+        flood_fill_GH.cpp
+        rotten_oranges_GH.cpp
+        cycle_in_undirected_GH.cpp
 )
