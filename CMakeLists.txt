@@ -94,4 +94,8 @@ add_executable(CPP_Codes main.cpp
         flood_fill_GH.cpp
         rotten_oranges_GH.cpp
         cycle_in_undirected_GH.cpp
+        cycle_in_undirected_DFS_GH.cpp
+        zero_one_matrix_GH.cpp
+        surrounded_regions_GH.cpp
+        no_of_enclaves_GH.cpp
 )
