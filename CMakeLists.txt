@@ -98,4 +98,13 @@ add_executable(CPP_Codes main.cpp
         zero_one_matrix_GH.cpp
         surrounded_regions_GH.cpp
         no_of_enclaves_GH.cpp
+        no_of_distict_island_GH.cpp
+        bipartite_GH.cpp
+        bipartite_DFS_GH.cpp
+        cycle_in_directed_GH.cpp
+        course_schdule_2_GH.cpp
+        find_eventual_safe_nodes_GH.cpp
+        topological_sort_GH.cpp
+        kahn's_algo_topo_sort_GH.cpp
+        course_schedule_1_topo_sort.cpp
 )
