@@ -107,4 +107,6 @@ add_executable(CPP_Codes main.cpp
         topological_sort_GH.cpp
         kahn's_algo_topo_sort_GH.cpp
         course_schedule_1_topo_sort.cpp
+        alien_dictionary_TOPO_GH.cpp
+        shortest_path_from_src_in_DAG_GH.cpp
 )
