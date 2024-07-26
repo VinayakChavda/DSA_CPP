@@ -109,4 +109,9 @@ add_executable(CPP_Codes main.cpp
         course_schedule_1_topo_sort.cpp
         alien_dictionary_TOPO_GH.cpp
         shortest_path_from_src_in_DAG_GH.cpp
+        shortest_path_undirected_GH.cpp
+        word_ladder_1_GH.cpp
+        dijkstra's_algoritham_GH.cpp
+        dijkstra's_algo_using_set_GH.cpp
+        shortest_path_weighted_undirected_dijkstra_GH.cpp
 )
