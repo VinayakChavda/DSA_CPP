@@ -161,7 +161,11 @@
 				107,
 				108,
 				109,
-				110
+				110,
+				111,
+				112,
+				113,
+				114
 			]
 		}
 	],
@@ -307,7 +311,11 @@
 				107,
 				108,
 				109,
-				110
+				110,
+				111,
+				112,
+				113,
+				114
 			]
 		},
 		{
@@ -983,6 +991,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "shortest_path_weighted_undirected_dijkstra_GH.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "shortest_path_on_binary_maze_GH.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "path_with_minimum_efforts_GH.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cheapest_flight_with_k_stops_GH.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "minimum_cost_to_convert_string_GH.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

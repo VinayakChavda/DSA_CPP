@@ -114,4 +114,8 @@ add_executable(CPP_Codes main.cpp
         dijkstra's_algoritham_GH.cpp
         dijkstra's_algo_using_set_GH.cpp
         shortest_path_weighted_undirected_dijkstra_GH.cpp
+        shortest_path_on_binary_maze_GH.cpp
+        path_with_minimum_efforts_GH.cpp
+        cheapest_flight_with_k_stops_GH.cpp
+        minimum_cost_to_convert_string_GH.cpp
 )
