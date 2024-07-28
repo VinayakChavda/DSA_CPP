@@ -118,4 +118,7 @@ add_executable(CPP_Codes main.cpp
         path_with_minimum_efforts_GH.cpp
         cheapest_flight_with_k_stops_GH.cpp
         minimum_cost_to_convert_string_GH.cpp
+        minumum_multiplication_to_reach_end_GH.cpp
+        all_paths_to_reach_dest_with_min_dis_GH.cpp
+        bellman_ford_algoritham_GH.cpp
 )

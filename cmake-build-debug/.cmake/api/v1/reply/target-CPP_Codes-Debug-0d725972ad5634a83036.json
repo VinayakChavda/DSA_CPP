@@ -165,7 +165,10 @@
 				111,
 				112,
 				113,
-				114
+				114,
+				115,
+				116,
+				117
 			]
 		}
 	],
@@ -315,7 +318,10 @@
 				111,
 				112,
 				113,
-				114
+				114,
+				115,
+				116,
+				117
 			]
 		},
 		{
@@ -1015,6 +1021,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "minimum_cost_to_convert_string_GH.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "minumum_multiplication_to_reach_end_GH.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "all_paths_to_reach_dest_with_min_dis_GH.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "bellman_ford_algoritham_GH.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
