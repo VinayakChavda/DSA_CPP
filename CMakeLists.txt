@@ -121,4 +121,12 @@ add_executable(CPP_Codes main.cpp
         minumum_multiplication_to_reach_end_GH.cpp
         all_paths_to_reach_dest_with_min_dis_GH.cpp
         bellman_ford_algoritham_GH.cpp
+        floyd_warshall_algoritham_GH.cpp
+        city_with_smallest_no_of_neighbours_at_a_threshold_dis_GH.cpp
+        prim's_algorithm_for_MST_GH.cpp
+        DisjoinSet.cpp
+        DisjoinSet.h
+        kruskal's_algorithm_MST_GH.cpp
+        number_of_provinces_using_disjoint_Set_GH.cpp
+        min_op_to_make_graph_connected_Disjoint_GH.cpp
 )
