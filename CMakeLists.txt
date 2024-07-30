@@ -129,4 +129,7 @@ add_executable(CPP_Codes main.cpp
         kruskal's_algorithm_MST_GH.cpp
         number_of_provinces_using_disjoint_Set_GH.cpp
         min_op_to_make_graph_connected_Disjoint_GH.cpp
+        account_merge_disjoint_GH.cpp
+        number_of_island_2_disjoint_GH.cpp
+        maxi_ones_by_changing_1_0to1_disjoint_GH.cpp
 )

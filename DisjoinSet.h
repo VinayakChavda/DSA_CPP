@@ -8,11 +8,12 @@
 
 using namespace std;
 class DisjoinSet {
-    vector<int> rank,parent;
 public:
+    vector<int> rank,parent,size;
     DisjoinSet(int n);
     int findUpr(int node);
     void unionByRank(int u,int v);
+    void unionBySize(int u,int v);
 };
 
 
