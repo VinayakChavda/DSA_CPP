@@ -73,6 +73,24 @@ build CMakeFiles/CPP_Codes.dir/Doubly_Linked_List.cpp.obj: CXX_COMPILER__CPP_Cod
   OBJECT_DIR = CMakeFiles\CPP_Codes.dir
   OBJECT_FILE_DIR = CMakeFiles\CPP_Codes.dir
 
+build CMakeFiles/CPP_Codes.dir/reverse_DLL.cpp.obj: CXX_COMPILER__CPP_Codes_unscanned_Debug E$:/CPP$ Codes/reverse_DLL.cpp || cmake_object_order_depends_target_CPP_Codes
+  DEP_FILE = CMakeFiles\CPP_Codes.dir\reverse_DLL.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_Codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_Codes.dir
+
+build CMakeFiles/CPP_Codes.dir/sum_2_LL.cpp.obj: CXX_COMPILER__CPP_Codes_unscanned_Debug E$:/CPP$ Codes/sum_2_LL.cpp || cmake_object_order_depends_target_CPP_Codes
+  DEP_FILE = CMakeFiles\CPP_Codes.dir\sum_2_LL.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_Codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_Codes.dir
+
+build CMakeFiles/CPP_Codes.dir/odd_even_LL.cpp.obj: CXX_COMPILER__CPP_Codes_unscanned_Debug E$:/CPP$ Codes/odd_even_LL.cpp || cmake_object_order_depends_target_CPP_Codes
+  DEP_FILE = CMakeFiles\CPP_Codes.dir\odd_even_LL.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\CPP_Codes.dir
+  OBJECT_FILE_DIR = CMakeFiles\CPP_Codes.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target CPP_Codes
@@ -81,7 +99,7 @@ build CMakeFiles/CPP_Codes.dir/Doubly_Linked_List.cpp.obj: CXX_COMPILER__CPP_Cod
 #############################################
 # Link the executable CPP_Codes.exe
 
-build CPP_Codes.exe: CXX_EXECUTABLE_LINKER__CPP_Codes_Debug CMakeFiles/CPP_Codes.dir/Linked_List.cpp.obj CMakeFiles/CPP_Codes.dir/ListNode.cpp.obj CMakeFiles/CPP_Codes.dir/DListNode.cpp.obj CMakeFiles/CPP_Codes.dir/Doubly_Linked_List.cpp.obj
+build CPP_Codes.exe: CXX_EXECUTABLE_LINKER__CPP_Codes_Debug CMakeFiles/CPP_Codes.dir/Linked_List.cpp.obj CMakeFiles/CPP_Codes.dir/ListNode.cpp.obj CMakeFiles/CPP_Codes.dir/DListNode.cpp.obj CMakeFiles/CPP_Codes.dir/Doubly_Linked_List.cpp.obj CMakeFiles/CPP_Codes.dir/reverse_DLL.cpp.obj CMakeFiles/CPP_Codes.dir/sum_2_LL.cpp.obj CMakeFiles/CPP_Codes.dir/odd_even_LL.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\CPP_Codes.dir
