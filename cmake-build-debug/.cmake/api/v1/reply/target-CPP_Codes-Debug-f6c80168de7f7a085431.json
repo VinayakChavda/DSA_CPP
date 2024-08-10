@@ -58,7 +58,10 @@
 				5,
 				6,
 				7,
-				8
+				8,
+				9,
+				10,
+				11
 			]
 		}
 	],
@@ -101,7 +104,10 @@
 				5,
 				6,
 				7,
-				8
+				8,
+				9,
+				10,
+				11
 			]
 		},
 		{
@@ -165,6 +171,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "odd_even_LL.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "english_to_integer_words.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "clockwise_spiral_marix.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "region_cut_GH.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

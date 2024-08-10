@@ -9,4 +9,7 @@ add_executable(CPP_Codes Linked_List.cpp ListNode.cpp ListNode.h
         Doubly_Linked_List.cpp
         reverse_DLL.cpp
         sum_2_LL.cpp
-        odd_even_LL.cpp)
+        odd_even_LL.cpp
+        english_to_integer_words.cpp
+        clockwise_spiral_marix.cpp
+        region_cut_GH.cpp)
