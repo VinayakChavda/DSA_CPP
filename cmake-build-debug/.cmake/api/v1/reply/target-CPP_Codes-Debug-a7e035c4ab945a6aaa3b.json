@@ -61,7 +61,11 @@
 				8,
 				9,
 				10,
-				11
+				11,
+				12,
+				13,
+				14,
+				15
 			]
 		}
 	],
@@ -107,7 +111,11 @@
 				8,
 				9,
 				10,
-				11
+				11,
+				12,
+				13,
+				14,
+				15
 			]
 		},
 		{
@@ -189,6 +197,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "region_cut_GH.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "minimum_no_of_days_to_disconnect_island_GH.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "assign_cookies_GR.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "frog_jump_DP.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "lemonade_change.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

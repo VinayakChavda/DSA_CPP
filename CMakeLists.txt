@@ -12,4 +12,8 @@ add_executable(CPP_Codes Linked_List.cpp ListNode.cpp ListNode.h
         odd_even_LL.cpp
         english_to_integer_words.cpp
         clockwise_spiral_marix.cpp
-        region_cut_GH.cpp)
+        region_cut_GH.cpp
+        minimum_no_of_days_to_disconnect_island_GH.cpp
+        assign_cookies_GR.cpp
+        frog_jump_DP.cpp
+        lemonade_change.cpp)
