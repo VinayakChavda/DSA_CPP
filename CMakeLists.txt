@@ -16,4 +16,7 @@ add_executable(CPP_Codes Linked_List.cpp ListNode.cpp ListNode.h
         minimum_no_of_days_to_disconnect_island_GH.cpp
         assign_cookies_GR.cpp
         frog_jump_DP.cpp
-        lemonade_change.cpp)
+        lemonade_change.cpp
+        unique_paths_DP.cpp
+        combination_sum_2.cpp
+        unique_paths_2.cpp)
